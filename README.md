@@ -11,6 +11,15 @@ The project showcases key concepts related to Kafka, including topics, partition
    - [Technology](#technology)
    - [Installation](#installation)
 - [Usage](#usage)
+    - [Kafka Cluster](#kafka-cluster)
+    - [Kafka Broker](#kafka-broker)
+    - [Kafka Consumer](#kafka-consumer)
+    - [Kafka Producer](#kafka-producer)
+    - [Kafka Topics](#kafka-topics)
+    - [Partitions](#partitions)
+    - [Offsets](#offsets)
+    - [Consumer Groups](#consumer-groups)
+    - [Serialization](#serialization)
 - [Contributing](#contributing) 
 
 ## Getting Started
