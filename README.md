@@ -74,24 +74,28 @@ Consumers are applications or systems that subscribe to Kafka topics and process
 
 A Kafka topic is a category or feed name to which records (messages) are published. Topics help organize and categorize messages.
 ![Kafka topics](img/kafka_topic.png)
+
 ---
 
 ### Partitions
 
 Topics are divided into partitions, allowing for parallel processing and scalability. Each partition is assigned to a specific broker.
 ![Kafka topics](img/kafka_partitions.png)
+
 ---
 
 ### Offsets
 
 Offsets represent the position of a message within a partition. Consumers use offsets to track their progress and resume processing from the last committed offset.
 ![Kafka topics](img/kafka_offset.png)
+
 ---
 
 ### Consumer Groups
 
 Consumer groups allow for parallel and scalable message processing. Consumers within a group coordinate to consume messages from one or more partitions.
 ![Kafka topics](img/kafka_consumer_groups.png)
+
 ---
 
 ### Serialization
@@ -106,5 +110,5 @@ Contributions are welcome! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) fo
 ## Contact
 Create: [ali-bouali]
 
-Project Link: [ali-bouali](https://github.com/ali-bouali/apache-kafka-with-spring-boot-reactive)
+Project Link: [apache-kafka-with-spring-boot](https://github.com/ali-bouali/apache-kafka-with-spring-boot-reactive)
  
